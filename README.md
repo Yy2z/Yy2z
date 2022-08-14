@@ -14,7 +14,7 @@
   ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
   ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
 </div>
- ![ ](https://camo.githubusercontent.com/84ed50fa9b2ab1149477eb85ab7c574ae3fbb6a4a88e7d6d1336fd30925f0964/68747470733a2f2f692e696d6775722e636f6d2f485438713478432e706e67)
+ <img src="https://camo.githubusercontent.com/84ed50fa9b2ab1149477eb85ab7c574ae3fbb6a4a88e7d6d1336fd30925f0964/68747470733a2f2f692e696d6775722e636f6d2f485438713478432e706e67">
   </figure>
 
 
