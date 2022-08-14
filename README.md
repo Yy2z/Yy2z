@@ -1,4 +1,4 @@
-<img align='right' src='./images/IMG_7732-9.jpg'>
+<img align='right' src='https://photo.yujunyan.xyz/IMG_7732-9-1.jpg'>
 
 ### Hi ，我是羽蒙Y 👋
   
