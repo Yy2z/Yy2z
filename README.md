@@ -5,8 +5,9 @@
 - 🌱不羁放荡爱自由
 - 🤔 爱好风光摄影、财经、前端
 - 📫 我的邮箱：1615978027@qq.com
-- 😄 博客：yujunyan.xyz
 - ⚡ 微信: yujunyan6
+
+[<img align='middle' src='https://anya.215213344.xyz/?text=%E7%9C%8B%E7%9C%8B%E5%8D%9A%E5%AE%A2%EF%BC%81&img=https://avatars.githubusercontent.com/u/53730587&bgcolor1=fff&bgcolor2=eee&color=666'></img>](https://yujunyan.xyz)
 
 [<img align='middle' src='https://anya.215213344.xyz/?text=Twitter%20@yyzyjy&bgcolor1=1d9bf0&bgcolor2=30a3e6&img=https://i.imgur.com/dpqSHIL.png'></img>](https://twitter.com/yyzyjy)
 
