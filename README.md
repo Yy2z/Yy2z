@@ -8,6 +8,7 @@
 - ⚡ 微信: yujunyan6
 
 [![](https://anya.215213344.xyz/?text=KFC%20V%E6%88%9150&img=https://i.imgur.com/rrIHcGx.png&bgcolor1=a3080c&bgcolor2=a3080cc7)](https://V50.yujunyan.xyz)
+
 [<img align='middle' src='https://anya.215213344.xyz/?text=%E7%9C%8B%E7%9C%8B%E5%8D%9A%E5%AE%A2%EF%BC%81&img=https://photo.yujunyan.xyz/77180909.png&bgcolor1=fff&bgcolor2=eee&color=666'></img>](https://yujunyan.xyz)
 
 [<img align='middle' src='https://anya.215213344.xyz/?text=Twitter%20@yyzyjy&bgcolor1=1d9bf0&bgcolor2=30a3e6&img=https://i.imgur.com/dpqSHIL.png'></img>](https://twitter.com/yyzyjy)
