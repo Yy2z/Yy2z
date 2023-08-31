@@ -1,6 +1,6 @@
-<img align='right' src='https://photo.yujunyan.xyz/IMG_7732-9-1.jpg'>
 
-# Hi ，我是羽蒙Y 👋
+
+# Hi ，我是Julian 👋
   
 - 🌱不羁放荡爱自由
 - 🤔 爱好风光摄影、web3、前端
