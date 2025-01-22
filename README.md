@@ -3,9 +3,8 @@
 # Hi ，我是Julian 👋
   
 - 🌱不羁放荡爱自由
-- 🤔 爱好风光摄影、web3、前端
-- 📫 我的邮箱：1615978027@qq.com
-- ⚡ 微信: yujunyan6
+- 🤔 WEEX Listing leader
+- ⚡ Telegram: @julianCLH
 
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
