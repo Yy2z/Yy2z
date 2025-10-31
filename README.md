@@ -4,7 +4,6 @@
   
 - 🌱不羁放荡爱自由
 - 🤔 WEEX Listing leader
-- ⚡ Telegram: @julianCLH
 
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
